@@ -1,9 +1,6 @@
 import socket
 
-class bcolors:
-       GREEN = '\033[92m'
-def banner():
-   print(bcolors.GREEN+()+made by Dujohn+()+)
+
 
 s = socket.socket(Socket.AF_INET,SOCKET.SOCK_STREAM)
 
